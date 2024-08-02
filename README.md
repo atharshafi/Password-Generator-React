@@ -20,7 +20,7 @@ A React application for generating secure passwords. Customize the password leng
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/atharshafi/password-generator.git
     cd password-generator
     ```
 
